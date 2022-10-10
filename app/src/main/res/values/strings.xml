@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAUNDRY WEB</string>
+
+    <!--Menu Items-->
+    <string name="menu_home">Home</string>
+    <string name="menu_order">Orders</string>
+    <string name="menu_notification">Notifications</string>
+    <string name="menu_account">My Account</string>
+</resources>
