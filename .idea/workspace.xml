@@ -17,7 +17,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe5f25c0-f2a8-4146-942f-45b2a1970e13" name="Changes" comment="included option to set as wallpaper" />
+    <list default="true" id="fe5f25c0-f2a8-4146-942f-45b2a1970e13" name="Changes" comment="included option to set as wallpaper">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/ui/dashboard/fragments/adopter/ListRecycleAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/ui/dashboard/fragments/model/ModelList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/utils/WrapperRecyclerAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/recycle_home_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/ui/dashboard/fragments/homeScreen/HomeScreenFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/ui/dashboard/fragments/homeScreen/HomeScreenFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/utils/ViewExtention.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hamid/laundry/utils/ViewExtention.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +44,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
-        <option value="layoutResourceFile" />
         <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -101,11 +112,11 @@
       <recent name="com.hamid.foodislife.data.allFoodItems" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.hamid.laundry.ui.dashboard.fragments.adopter" />
+      <recent name="com.hamid.laundry.utils" />
       <recent name="com.hamid.foodislife.data.searchAble" />
       <recent name="com.hamid.foodislife.database" />
       <recent name="com.hamid.foodislife.ui.dashboard.fragments.adopter" />
-      <recent name="com.hamid.foodislife.ui.dashboard.fragments.viewHolder" />
-      <recent name="com.hamid.foodislife.ui.dashboard.fragments.reciepDetails" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.hamid.foodislife.utils" />
